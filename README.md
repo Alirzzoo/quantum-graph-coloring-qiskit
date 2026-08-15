@@ -43,4 +43,30 @@ The objective function enforces two conditions:
 
 These rules are encoded as penalty terms inside the QUBO objective.
 
-## 
+## Technologies Used
+
+- Python
+- Qiskit
+- Qiskit Optimization
+- Qiskit Algorithms
+- NumPy
+- NetworkX
+- Matplotlib
+- Seaborn
+
+## Final Result
+
+For the generated graph:
+
+- Nodes: `6`
+- Edges: `9`
+- Colors allowed: `4`
+- Binary variables: `24`
+- Objective value: `0.0`
+- Conflicts: `0`
+- Valid coloring: `True`
+
+One valid color assignment found by the model is:
+
+```python
+[3, 1, 2, 1, 0, 0]
