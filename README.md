@@ -43,17 +43,6 @@ The objective function enforces two conditions:
 
 These rules are encoded as penalty terms inside the QUBO objective.
 
-## Technologies Used
-
-- Python
-- Qiskit
-- Qiskit Optimization
-- Qiskit Algorithms
-- NumPy
-- NetworkX
-- Matplotlib
-- Seaborn
-
 ## Final Result
 
 For the generated graph:
