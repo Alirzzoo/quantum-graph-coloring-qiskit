@@ -1,0 +1,9 @@
+numpy
+matplotlib
+seaborn
+networkx
+qiskit
+qiskit-algorithms
+qiskit-optimization
+ipython
+pylatexenc
